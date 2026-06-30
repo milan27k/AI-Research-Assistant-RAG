@@ -99,7 +99,7 @@ END
 
 ### 🏠 Home Page
 
-![Home](home_page.png)
+![Home](Home_page.png)
 
 ---
 

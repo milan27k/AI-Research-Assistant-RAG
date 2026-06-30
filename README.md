@@ -95,25 +95,19 @@ END
 
 ### 🏠 Home Page
 
-![Home](assets/home.png)
+![Home](home_page.png)
 
 ---
 
-### 📄 Upload PDF
+### 📄 Upload PDF & Question Answering
 
-![Upload PDF](assets/upload_pdf.png)
+![ragF](rag.png)
 
----
-
-### 💬 Question Answering
-
-![Question Answer](assets/question_answer.png)
-
----
 
 ### 📑 Research Report Generation
 
-![Report](assets/report.png)
+![Report](generate_report.png)
+![Report](generate_report2.png)
 
 ---
 

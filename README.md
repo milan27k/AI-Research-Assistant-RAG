@@ -90,6 +90,39 @@ END
 - PDF Question Answering
 - AI Report Generation
 
+
+## 🖼️ Screenshots
+
+### 🏠 Home Page
+
+![Home](assets/home.png)
+
+---
+
+### 📄 Upload PDF
+
+![Upload PDF](assets/upload_pdf.png)
+
+---
+
+### 💬 Question Answering
+
+![Question Answer](assets/question_answer.png)
+
+---
+
+### 📑 Research Report Generation
+
+![Report](assets/report.png)
+
+---
+
+### 🌐 Web Search
+
+![Web Search](assets/web_search.png)
+
+---
+
 # Folder Structure
 .
 ├── app.py

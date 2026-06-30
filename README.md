@@ -80,7 +80,7 @@ END
 
 ## 🏗️ System Architecture
 
-![Architecture](.png)
+![Architecture](model_structure.png)
 
 # Key Features
 

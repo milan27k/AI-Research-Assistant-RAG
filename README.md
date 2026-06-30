@@ -78,6 +78,10 @@ Chatbot
    ▼
 END
 
+## 🏗️ System Architecture
+
+![Architecture](.png)
+
 # Key Features
 
 - Retrieval-Augmented Generation (RAG)
@@ -113,7 +117,7 @@ END
 
 ### 🌐 Web Search
 
-![Web Search](assets/web_search.png)
+![Web Search](web_search_tool.png)
 
 ---
 
